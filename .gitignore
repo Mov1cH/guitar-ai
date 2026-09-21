@@ -1,0 +1,10 @@
+cat << 'EOF' > .gitignore
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.mp3
+*.wav
+*.m4a
+.DS_Store
+EOF
