@@ -1,6 +1,6 @@
 streamlit
 librosa
-numpy
+numpy<2.0.0
 yt-dlp
 demucs
 basic-pitch
